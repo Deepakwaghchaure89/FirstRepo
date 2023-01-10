@@ -3,3 +3,43 @@ Git And Git hUb Information
 
 Git Version Control System
 Github Repos can be created and saved online
+
+Download git from below link as per OS platform
+--
+https://git-scm.com/downloads
+--
+
+Create account in github portal
+--
+https://github.com/
+--
+
+Download any Editor to write your code. for example Visual Studio
+--
+https://visualstudio.microsoft.com/downloads/
+--
+
+Once all setup done. Open Gitbash terminal which is get isntalled once you install the git on your system.
+On gitbash type the git commands in order to interact with vs code as below.
+Note : On Visual stuido we will create codes and save it and on gitbash we will use the git commands to add/modify/save/commit in github repo
+
+Git Commands
+---
+git --version
+git init
+git status
+git add
+git config
+git commit
+git log
+git branch brnahcname
+git checkout branchname
+git checkout -b brnachname
+git push
+git pull
+git merge
+
+
+
+
+
